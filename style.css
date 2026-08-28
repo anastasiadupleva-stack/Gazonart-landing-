@@ -347,6 +347,7 @@ img, svg{ display: block; max-width: 100%; }
   grid-template-columns: repeat(3, 1fr);
   gap: 24px;
 }
+.cards-2{ grid-template-columns: repeat(2, 1fr); }
 .card{
   position: relative;
   background: var(--white);
